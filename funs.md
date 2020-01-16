@@ -1,3 +1,7 @@
+---
+showToc: true
+---
+
 # Functionality
 
 ## How to start and end the interface
