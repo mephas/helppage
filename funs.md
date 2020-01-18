@@ -58,7 +58,7 @@ This is the general layout in MEPHAS
 
 - Check the data in the left output.
 
-*Video example*
+*GIF example*
 
 <img src="/images/inputm.gif" width="50%">
 
@@ -86,15 +86,9 @@ This box is used to input the numeric values and provides two ways to input the 
 
 - use the up/down button in the right
 
-*Video example*
+*GIF example*
 
-<video width="70%" controls>
-  <source src="/images/winputnum.mp4" type="video/mp4">
-</video>
-
-*Video example2*
-
-<img src="/images/winputnum.gif" width="50%">
+<img src="/images/winputnum.gif" width="70%">
 
 #### Numeric input bar
 
@@ -130,8 +124,4 @@ This box allows to choose more than one item from the list.
 
 - Enter/Backspace on the keyboard can also control the choice 
 
-*Video example*
 
-<video width="50%" controls>
-  <source src="/images/wmulchoose.mov" type="video/mp4">
-</video>
