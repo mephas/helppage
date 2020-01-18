@@ -61,7 +61,7 @@ This is the general layout in MEPHAS
 *Video example*
 
 <video width="70%" controls>
-  <source src="/images/inputm.mov" type="video/mp4">
+  <source src="/images/inputm.mp4" type="video/mp4">
 </video>
 
 ### Upload CSV/TXT data
