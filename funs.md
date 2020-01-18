@@ -89,8 +89,12 @@ This box is used to input the numeric values and provides two ways to input the 
 *Video example*
 
 <video width="70%" controls>
-  <source src="/images/winputnum.mov" type="video/mp4">
+  <source src="/images/winputnum.mp4" type="video/mp4">
 </video>
+
+*Video example2*
+
+<img src="/images/winputnum.gif" width="50%">
 
 #### Numeric input bar
 
