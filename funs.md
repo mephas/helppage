@@ -38,11 +38,9 @@ This is the general layout in MEPHAS
 
 - Missing name may cause some error in the result
 
-*Video example*
+*GIF example*
 
-<video width="70%" controls>
-  <source src="/images/name.mov" type="video/mp4">
-</video>
+<img src="/images/name.gif" width="70%">
 
 ### Input data manually
 
@@ -60,7 +58,6 @@ This is the general layout in MEPHAS
 
 *GIF example*
 
-<img src="/images/inputm.gif" width="50%">
 
 ### Upload CSV/TXT data
 
