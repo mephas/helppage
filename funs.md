@@ -121,5 +121,5 @@ This box allows to choose more than one item from the list.
 
 *GIF example*
 
-<img src="/images/wmulchoose.gif" width="70%">
+<img src="/images/wmulchoose.gif" width="50%">
 
