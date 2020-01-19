@@ -56,8 +56,6 @@ This is the general layout in MEPHAS
 
 - Check the data in the left output.
 
-*GIF example*
-
 
 ### Upload CSV/TXT data
 
@@ -121,4 +119,7 @@ This box allows to choose more than one item from the list.
 
 - Enter/Backspace on the keyboard can also control the choice 
 
+*GIF example*
+
+<img src="/images/wmulchoose.gif" width="70%">
 
