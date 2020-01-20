@@ -175,5 +175,23 @@ After the change, the reference levels of "Age" and "Age.group" are "2" and "a".
 <img src="/images/cref2.png" width="50%">
 
 
+### Output: statistical tables and plots
+
+#### Tables
+
+<img src="/images/table.png" width="50%">
+
+- The buttons in the left-top are for downloading table. When download the table, users need to give a new name to the file.
+
+- The box in the  right-top is for searching the value.
+
+#### Plots
+
+Right click can save the plot as image
+
+<img src="/images/plot.png" width="50%">
+
+
+
 
 
