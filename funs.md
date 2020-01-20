@@ -8,7 +8,7 @@ showToc: true
 
 This is the general layout in MEPHAS
 
-<img src="/images/layout.png" width="50%">
+<img src="/images/layout.png" width="40%">
 
 - **On the top** are tabs for choosing the methods, and button to quit the whole interface, to help help, and to go to home page.
 
