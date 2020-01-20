@@ -28,7 +28,7 @@ This is the general layout in MEPHAS
 
 - **Open Homepage** will open the link to MEPHAS home page.
 
-## Input: prepare the data and set the parameters (red square 1 in the left)
+## Input: prepare the data and set the parameters (red square 2 in the left)
 
 ### Input data name
 
@@ -56,7 +56,6 @@ This is the general layout in MEPHAS
 
 - Check the data in the left output.
 
-
 ### Upload CSV/TXT data
 
 <img src="/images/inputcsv.png" width="50%">
@@ -68,6 +67,20 @@ This is the general layout in MEPHAS
 - **Use 1st column as row names? (No duplicates)**: Yes, when first column is ID or row names.
 
 - When data is TXT file, please choose the correct separator. 
+
+### Create RxC contingency table
+
+- Step 1: replace row names and column names
+
+- Step 2: input enough values manually to fill the table in row order
+
+- Do not input missing values
+
+<img src="/images/rc1.png" width="50%">
+
+Finally, we can get a valid contingency table, with sum in the row and column.
+
+<img src="/images/rc2.png" width="70%">
 
 ### Settings parameters using the widgets
 
@@ -122,4 +135,45 @@ This box allows to choose more than one item from the list.
 *GIF example*
 
 <img src="/images/wmulchoose.gif" width="50%">
+
+### Change the type of variables (in advanced methods)
+
+<img src="/images/c.png" width="50%">
+
+#### Change numeric variable into categorical variable
+
+Choose variable from the list
+
+<img src="/images/cntoc.png" width="50%">
+
+We can see that in the categorical variable information list, "Birthweight" became the categorical variable compulsively
+
+<img src="/images/cntocres.png" width="50%">
+
+#### Change categorical variable into numeric variable
+
+Choose variable from the list
+
+<img src="/images/ccton.png" width="50%">
+
+We can see that in the numeric variable information list,  "Age.group" became the numeric variable compulsively
+
+<img src="/images/cntocres.png" width="50%">
+
+#### Change the reference level of categorical variables
+
+Before the change, the reference levels of "Age" and "Age.group" are "2" and "a".
+
+<img src="/images/cref1.png" width="50%">
+
+We choose some categorical variables, and input the desired reference level. One line is for one input.
+
+<img src="/images/crefc.png" width="50%">
+
+After the change, the reference levels of "Age" and "Age.group" are "2" and "a".
+
+<img src="/images/cref2.png" width="50%">
+
+
+
 
