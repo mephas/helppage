@@ -10,13 +10,13 @@ This is the general layout in MEPHAS
 
 <img src="/images/layout.png" width="40%">
 
-- **On the top** are tabs for choosing the methods, and button to quit the whole interface, to help help, and to go to home page.
+- **On the top** are tabs used to choose the methods, and button to quit the whole interface, to help help, and to go to home page.
 
-- **Red Square 1** gives some introduction about the functions for methods in this page.
+- **Red Square 1** gives some introduction about the functions or methods in this page.
 
-- **Red Square 2** in the left is for inputing data or setting the parameters.
+- **Red Square 2** in the left is used to input data or setting the parameters.
 
-- **Red Square 3** in the right is for result output.
+- **Red Square 3** in the right is used to output results.
 
 ## Start and end the interface (top)
 
@@ -34,7 +34,7 @@ This is the general layout in MEPHAS
 
 <img src="/images/name.png" width="50%">
 
-- One line is for one name
+- One line is used to input one name
 
 - Missing name may cause some error in the result
 
@@ -166,7 +166,7 @@ Before the change, the reference levels of "Age" and "Age.group" are "2" and "a"
 
 <img src="/images/cref1.png" width="50%">
 
-We choose some categorical variables, and input the desired reference level. One line is for one input.
+We choose some categorical variables, and input the desired reference level. One line is used to input one value.
 
 <img src="/images/crefc.png" width="50%">
 
@@ -179,19 +179,28 @@ After the change, the reference levels of "Age" and "Age.group" are "2" and "a".
 
 #### Tables
 
+Tables in MEPHAS are shown by [DT package](https://rstudio.github.io/DT/).
+
 <img src="/images/table.png" width="50%">
 
-- The buttons in the left-top are for downloading table. When download the table, users need to give a new name to the file.
+- The buttons in the left-top are used to download table. When download the table, users need to give a new name to the file.
 
-- The box in the  right-top is for searching the value.
+- The box in the  right-top is used to search the value.
 
 #### Plots
 
-Right click can save the plot as image
+Plots in MEPHAS are shown in by [ggplot2 package](https://cran.r-project.org/web/packages/ggplot2/index.html) and [plotly package](https://plot.ly/ggplot2/)
 
-<img src="/images/plot.png" width="50%">
+- For ggolot2 plots: right click can save the plot as image
 
+<img src="/images/plot1.png" width="50%">
 
+- For 2D plotly plots: users can control the plot using the buttons in top-right
 
+<img src="/images/plot2.png" width="50%">
+
+- For 3D plotly plots: 3D plots need some time to load, and users can control the plot using the buttons in top-right
+
+<img src="/images/plot3.png" width="50%">
 
 

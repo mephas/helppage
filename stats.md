@@ -6,6 +6,12 @@ showToc: true
 
 ## Data 
 
+### Random variable
+
+Wikipedia link: [random variable](https://en.wikipedia.org/wiki/Random_variable)
+
+
+
 
 ## Probability
 
