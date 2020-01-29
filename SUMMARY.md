@@ -1,9 +1,7 @@
-# Summary
+# Tutorial and Help for MEPHAS
 
-## [Introduction](README.md)
+## [Tutorial and Help for MEPHAS](README.md)
 
-## Tutorial and Help 
+* [Tool options in MEPHAS](funs.md)
 
-* [Functionality](funs.md)
-
-* [Statistical Methods](stats.md)
+* [Statistical methods links](stats.md)
