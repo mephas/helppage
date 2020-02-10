@@ -2,6 +2,8 @@
 
 ## [Tutorial and Help for MEPHAS](README.md)
 
-* [Tool options in MEPHAS](funs.md)
+* [Input widgets](input.md)
 
-* [Statistical methods links](stats.md)
+* [Outputs features](output.md)
+
+* [Statistics references](stats.md)

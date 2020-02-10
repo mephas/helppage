@@ -13,39 +13,31 @@ However, for those who do not understand basic statistics, it is hard to start M
 
 # Overview
 
-## 1. Interface layout
+## Interface layout
 
-This is the general layout of the interface in MEPHAS.
+This is the general layout of each interface in MEPHAS.
 
-<img src="/images/layout.png" width="40%">
+<img src="/images/layout.png">
 
-- **On the top** are tabs used to choose the methods, and button to quit the whole interface, to help help, and to go to home page.
+- **Area 1** consists of different **tabs** (methods), **stop button**, and **link button**. 
 
-- **Red Square 1** gives the general **introduction** about the functions or methods.
+- **Area 2** gives the general **introduction** about the functions or methods. The **button** controls whether or not to show the introduction.
 
-- **Red Square 2** in the left is used to **input** data or setting the parameters.
+- **Area 3** in the left is used to **input** data and parameters. Users can follow the **steps** to input necessary information.
 
-- **Red Square 3** in the right is used to **output** results.
-
-## 2. Header of the interface
-
-The header includes interface's name (which also indicates the statistical methods in general), method tabs to switch into the specific method, and red and blue buttons at the last.
-
-<img src="/images/header.png" width="70%">
-
-- **Stop and Quit** is used to end the interface. 
-
-- **Tutorial and Help** will open this help page.
-
-- **Open Homepage** will open the link to MEPHAS home page.
+- **Area 4** in the right is used to **output** results.
 
 
 # Contents
 
-## [1. How to use the tool options](funs.md)
+## [1. Input widgets](input.md)
 
-This part will introduce how to use the tools and options in  MEPHAS. For example, how to input data, how to download data, how to use the buttons, and so forth.
+This part will introduce the tools and options for input.
 
-## [2. Supplementary links to statistical methods](stats.md)
+## [2. Output features](output.md)
+
+This part will introduce the features in outputs. 
+
+## [3. Statistics references](stats.md)
 
 This part will give some supplementary links and knowledge about the statistical methods.
